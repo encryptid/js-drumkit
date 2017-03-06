@@ -1,13 +1,22 @@
 body {
+    text-align: center;
     background-color: darkslategray;
     color: white;
+    font-size: 1em;
+    font-family: sans-serif;
 }
 
 section {
     display: inline-flex;
 }
 
+p {
+    font-size: .75em;
+}
+
 .key {
     text-align: center;
     border: 1px solid white;
+    width: 65px;
+    margin: 5px;
 }
