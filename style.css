@@ -1,0 +1,13 @@
+body {
+    background-color: darkslategray;
+    color: white;
+}
+
+section {
+    display: inline-flex;
+}
+
+.key {
+    text-align: center;
+    border: 1px solid white;
+}

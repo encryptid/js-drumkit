@@ -1,0 +1,1 @@
+Day one of JS 30 challenge.
